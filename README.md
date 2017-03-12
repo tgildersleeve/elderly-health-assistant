@@ -1,5 +1,5 @@
 # elderly-health-assistant
-##### arduino sketch that senses whether the device wearer has fallen
+### arduino sketch that senses whether the device wearer has fallen
 #####
 #####
 ##### this sketch was created for ArchHack's health tech themed hackathon
